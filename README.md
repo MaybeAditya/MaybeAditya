@@ -1,4 +1,4 @@
-# Hey, I'm Aditya 👋
+# Hey, I'm Aditya
 
 I build things because I want to understand how they work.
 
